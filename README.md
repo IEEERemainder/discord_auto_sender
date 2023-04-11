@@ -27,6 +27,7 @@ You can obtain your user account's tocen by loggin in discord via browser, openi
 - Beautify edit tasc window
 - Refactor to windows (now at single main window with all states)
 - Tray support?
+- Update discord_api, which had incorrect assume ns is 1e-6 instead of 1e-9 (will affect max throughput)
 
 ## Have ideas or need help? 
 Create issue or concat me via nosare@yandex.ru or Interlocked#6505
